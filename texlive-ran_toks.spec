@@ -5,7 +5,7 @@
 # catalog-license undef
 # catalog-version undef
 Name:		texlive-ran_toks
-Version:	20131010
+Version:	20131014
 Release:	1
 Summary:	TeXLive ran_toks package
 Group:		Publishing
