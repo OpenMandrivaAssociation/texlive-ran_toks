@@ -1,12 +1,6 @@
-# revision 28361
-# category Package
-# catalog-ctan undef
-# catalog-date undef
-# catalog-license undef
-# catalog-version undef
 Name:		texlive-ran_toks
-Version:	20131014
-Release:	9
+Version:	1.1
+Release:	1
 Summary:	TeXLive ran_toks package
 Group:		Publishing
 URL:		http://tug.org/texlive
@@ -32,12 +26,10 @@ TeXLive ran_toks package.
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/ran_toks/ran_toks.sty
-%doc %{_texmfdistdir}/doc/latex/ran_toks/doc/rantoks_man.pdf
-%doc %{_texmfdistdir}/doc/latex/ran_toks/doc/rantoks_man.tex
-%doc %{_texmfdistdir}/doc/latex/ran_toks/examples/ran_toks.tex
+%{_texmfdistdir}/tex/latex/ran_toks
+%doc %{_texmfdistdir}/doc/latex/ran_toks
 #- source
-%doc %{_texmfdistdir}/source/latex/ran_toks/ran_toks.dtx
+%doc %{_texmfdistdir}/source/latex/ran_toks
 
 #-----------------------------------------------------------------------
 %prep
