@@ -1,6 +1,6 @@
 Name:		texlive-ran_toks
 Version:	1.1
-Release:	1
+Release:	2
 Summary:	TeXLive ran_toks package
 Group:		Publishing
 URL:		http://tug.org/texlive
